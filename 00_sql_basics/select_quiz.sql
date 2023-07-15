@@ -8,8 +8,8 @@ WHERE population BETWEEN 1000000 AND 1250000
 
 Table-E
 ---------------------
- Albania |	3200000
- Algeria |	32900000
+ Albania | 3200000
+ Algeria | 32900000
 ---------------------
 
 -- 3
@@ -19,7 +19,7 @@ WHERE name LIKE '%a' OR name LIKE '%l'
 
 -- 4
 
- name  |	length(name)
+ name  | length(name)
 -------+--------------- 
  Italy | 5
  Malta | 5
